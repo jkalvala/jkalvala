@@ -5,7 +5,7 @@
 
 I am a Product Leader with 15+ years of experience defining the product strategy and roadmaps that serve as the "digital backbone" for complex R&D environments. Leveraging a dual foundation in Computational Neuroscience and Computer Science, I translate biological hypotheses into scalable, AI-ready data ecosystems.
 
-My expertise lies in the strategic stewardship of high-fidelity research data. From architecting core lab workflows at Genentech to leading global platform strategies for preeminent scientific foundations at Bridge Analytics, I ensure scientific data is structured, governed, and optimized for discovery, reproducibility, and ML-driven milestones.
+My expertise lies in the strategic stewardship of high-fidelity research data. From architecting core lab workflows to leading global platform strategies for preeminent scientific foundations, I ensure scientific data is structured, governed, and optimized for discovery, reproducibility, and ML-driven milestones.
 
 ---
 
